@@ -1,1 +1,3 @@
 # kicad_lib
+
+INIT
